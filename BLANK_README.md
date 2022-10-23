@@ -38,14 +38,9 @@
   <p align="center">
     Tips and tricks, picked up from trying to get Blue Iris setup and running in a half decent fashion.
     <br />
-    <a href="https://github.com/sym0nd0/BlueIrisGuidance"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/sym0nd0/BlueIrisGuidance">View Demo</a>
-    ·
     <a href="https://github.com/sym0nd0/BlueIrisGuidance/issues">Report Bug</a>
     ·
-    <a href="https://github.com/sym0nd0/BlueIrisGuidance/issues">Request Feature</a>
+    <a href="https://github.com/sym0nd0/BlueIrisGuidance/issues">Suggest a change</a>
   </p>
 </div>
 
@@ -57,9 +52,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
