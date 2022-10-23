@@ -84,7 +84,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `sym0nd0`BlueIrisGuidanceame`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `sym0nd0`BlueIrisGuidanceame`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `Blue Iris (v5) Guidance`, `Tips and tricks, picked up from trying to get Blue Iris setup and running in a half decent fashion.`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
